@@ -20,8 +20,8 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/y/aadhaar-ocr.git
-cd aadhaar-ocr
+git clone https://github.com/rudranarayan-01/Date-Extraction-From-Aadhaar
+cd Date-Extraction-From-Aadhaar
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -41,6 +41,10 @@ Edit `utils.py` and update the Tesseract path:
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 ```
+
+**or**
+simply add the tesseract folder path in environment variable where **tesseract.exe** exists
+
 
 ## Usage
 
@@ -96,7 +100,9 @@ python manage.py runserver
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, contact [Rudranarayan Sahu](mailto:rudranarayansahu.tech@gmail.com) or visit your [GitHub](https://github.com/rudranarayan-01).
+For queries, contact [Rudranarayan Sahu](mailto:rudranarayansahu.tech@gmail.com) or visit my [GitHub](https://github.com/rudranarayan-01).
+
+
 **Website** - https://akash0101.pythonanywhere.com
 
 
