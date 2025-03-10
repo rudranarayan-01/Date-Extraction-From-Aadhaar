@@ -103,6 +103,7 @@ This project is licensed under the MIT License.
 For queries, contact [Rudranarayan Sahu](mailto:rudranarayansahu.tech@gmail.com) or visit my [GitHub](https://github.com/rudranarayan-01).
 
 
+**Name**: Rudranarayan Sahu
 **Website** - https://akash0101.pythonanywhere.com
 
 
