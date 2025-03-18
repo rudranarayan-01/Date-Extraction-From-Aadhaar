@@ -22,3 +22,4 @@ def extract_dates(text):
     years = re.findall(year_pattern, text)
 
     return dates if dates else years  # Return years if no full dates found
+ 
